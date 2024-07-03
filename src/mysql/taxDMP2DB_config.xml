@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<configuration>
+
+    <database>
+        <database_name>TaxDB</database_name>
+        <user></user>
+        <password></password>
+        <host>localhost:3306</host>
+    </database>
+    <zipfile_location>/users/michiel/Desktop/taxdmp.zip</zipfile_location>
+</configuration>
